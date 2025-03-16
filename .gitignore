@@ -1,0 +1,13 @@
+# Exclude specific files
+secret_config.json
+notes.txt
+
+# Exclude specific directories
+chrome-win64/
+chromedriver-win64/
+logs/
+venv/
+
+# Exclude all `.log` files
+*.log
+*.zip
