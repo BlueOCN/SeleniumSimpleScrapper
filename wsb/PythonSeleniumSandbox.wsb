@@ -1,0 +1,14 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\Roberto\Desktop\Selenium</HostFolder>
+      <SandboxFolder>C:\Selenium</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>cmd.exe /c C:\Selenium\wsb\setup_python.bat</Command>
+  </LogonCommand>
+  <Networking>Default</Networking>
+  <VGpu>Default</VGpu>
+</Configuration>
